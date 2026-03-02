@@ -3,7 +3,7 @@
 # Semana 1 - Deploy estatico (GitHub Pages)
 
 ##Links
-- Repositorio:
+- Repositorio:https://github.com/FallerAnaa/nuvem-semana1-ana-faller
 - Site (GitHub Pages): https://falleranaa.github.io/nuvem-semana1-ana-faller/
 
 ## O que foi feito
